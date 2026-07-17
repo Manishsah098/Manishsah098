@@ -44,5 +44,6 @@ Hello! I'm Manish, a software engineer focused on building robust, scalable web 
 ### 🤝 Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/manish-kumar-sah-917116367](https://www.linkedin.com/in/manish-kumar-sah-917116367/)
+* **LeetCode:** [leetcode.com/u/manish99999999](https://leetcode.com/u/manish99999999/)
 * **GitHub:** [github.com/Manishsah098](https://github.com/Manishsah098)
 * **Email:** [manishsah117618@gmail.com](mailto:manishsah117618@gmail.com)
