@@ -22,27 +22,26 @@ Hello! I'm Manish, a software engineer focused on building robust, scalable web 
 * **Frontend:** React, Tailwind CSS
 * **Backend & DB:** Node.js, Express, PostgreSQL, Redis
 * **DevOps:** Docker, AWS EC2, GitHub Actions
-* 🔗 [GitHub Repository](https://github.com/Nikhil-Gupta67) | [Live Demo](https://github.com/Nikhil-Gupta67)
+* 🔗 [GitHub Repository](https://github.com/Manishsah098) | [Live Demo](https://github.com/Manishsah098)
 
 #### ⚙️ Project Name (e.g., Real-time Chat Microservice)
 *Brief description of the system architecture, real-time message handling, and scalability.*
 * **Tech Stack:** Python, FastAPI, WebSockets, MongoDB, Docker
-* 🔗 [GitHub Repository](https://github.com/Nikhil-Gupta67) | [Live Demo](https://github.com/Nikhil-Gupta67)
+* 🔗 [GitHub Repository](https://github.com/Manishsah098) | [Live Demo](https://github.com/Manishsah098)
 
 ---
 
 ### 📊 GitHub Metrics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Gupta67&show_icons=true&theme=tokyonight&border_radius=5" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manishsah098&show_icons=true&theme=tokyonight&border_radius=5" alt="GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Gupta67&layout=compact&theme=tokyonight&border_radius=5" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishsah098&layout=compact&theme=tokyonight&border_radius=5" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/nikhil-gupta-7b8702383](https://www.linkedin.com/in/nikhil-gupta-7b8702383/)
-* **LeetCode:** [leetcode.com/u/Nikhil-Gupta1](https://leetcode.com/u/Nikhil-Gupta1/)
+* **GitHub:** [github.com/Manishsah098](https://github.com/Manishsah098)
 * **Email:** [manishsah117618@gmail.com](mailto:manishsah117618@gmail.com)
